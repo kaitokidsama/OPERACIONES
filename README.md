@@ -2,5 +2,5 @@
 this program was created in visual basic with the aim of solving simple problems such as the area and perimeter of geometric figures like triangle, circle, square.
 
 
-![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Esta es una imagen](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f83ab63c-321c-425d-a2ef-b3952a1ac70f/d6g0rsu-12fc7a0f-ec55-474c-9b8e-91fb570f446b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y4M2FiNjNjLTMyMWMtNDI1ZC1hMmVmLWIzOTUyYTFhYzcwZlwvZDZnMHJzdS0xMmZjN2EwZi1lYzU1LTQ3NGMtOWI4ZS05MWZiNTcwZjQ0NmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BDa3W7_wbh6Oo3Ek5dtwZgPoT3bD1avO43UyosU9cbo)
 
